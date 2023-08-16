@@ -1,0 +1,2322 @@
+ primary-button : 0078A5  , 10A3DA
+ primary-text   : 05E6CB  , 00B4DC
+ primary-background :  1E1E1E , 
+
+ elipse radial : center:00A591  , 
+
+
+
+
+ /* Final design */
+
+position: relative;
+width: 1728px;
+height: 9547px;
+
+background: #11111F;
+
+
+/* Ellipse 17 */
+
+position: absolute;
+width: 3132px;
+height: 3651px;
+left: -1368px;
+top: -1781px;
+
+background: radial-gradient(50% 50% at 50% 50%, rgba(0, 165, 145, 0.1) 0%, rgba(0, 165, 145, 0) 100%);
+
+
+/* Ellipse 18 */
+
+position: absolute;
+width: 3132px;
+height: 3609px;
+left: -41px;
+top: 2472px;
+
+background: radial-gradient(50% 50% at 50% 50%, rgba(0, 165, 145, 0.152) 0%, rgba(0, 165, 145, 0) 100%);
+
+
+/* Rectangle 90 */
+
+position: absolute;
+width: 266px;
+height: 240px;
+left: 1483px;
+top: 5135px;
+
+
+
+/* LOGO */
+
+position: absolute;
+width: 188.37px;
+height: 114px;
+left: 72px;
+top: 12px;
+
+background: url(logo_final_X-removebg-preview.png);
+
+
+/* LOGO */
+
+position: absolute;
+width: 144px;
+height: 87px;
+left: 935px;
+top: 280px;
+
+background: url(logo_final_X-removebg-preview.png);
+
+
+/* NAV BAR */
+
+position: absolute;
+width: 1279px;
+height: 94px;
+left: 200px;
+top: 0px;
+
+
+
+/* Frame 9 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10.93px;
+
+position: absolute;
+width: 108.14px;
+height: 1.85px;
+left: 200px;
+top: 0px;
+
+
+
+/* Frame 10 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 1.09px;
+
+width: 73.81px;
+height: 2.64px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Request demo */
+
+position: absolute;
+width: 173px;
+height: 54px;
+left: 1306px;
+top: 40px;
+
+
+
+/* Request Demo */
+
+position: absolute;
+width: 133px;
+height: 27px;
+left: 1327px;
+top: 53px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 74 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 173px;
+height: 54px;
+left: 1306px;
+top: 40px;
+
+border-radius: 10px;
+
+
+/* Frame 11 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 51.76px;
+
+position: absolute;
+width: 390.94px;
+height: 17.48px;
+left: 823px;
+top: 56.32px;
+
+
+
+/* Home */
+
+width: 50px;
+height: 25px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16.5644px;
+line-height: 25px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Resource */
+
+width: 77px;
+height: 25px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16.5644px;
+line-height: 25px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* About Us */
+
+width: 74px;
+height: 25px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16.5644px;
+line-height: 25px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Contact Us */
+
+width: 92px;
+height: 25px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16.5644px;
+line-height: 25px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Frame 237758 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 40px;
+
+position: absolute;
+width: 681px;
+height: 318px;
+left: 89px;
+top: 252px;
+
+
+
+/* Frame 237740 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 48px;
+
+width: 681px;
+height: 318px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 13 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 18px;
+
+width: 681px;
+height: 216px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 35 */
+
+width: 681px;
+height: 138px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Explore the future of the */
+
+position: absolute;
+width: 612px;
+height: 136px;
+left: 0px;
+top: 0px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 600;
+font-size: 45px;
+line-height: 68px;
+/* or 151% */
+
+color: #FFFFFF;
+
+
+
+/* Augmented Reality */
+
+position: absolute;
+width: 579px;
+height: 72px;
+left: 102px;
+top: 66px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 600;
+font-size: 55px;
+line-height: 72px;
+/* identical to box height, or 131% */
+
+background: linear-gradient(180deg, #05E6CB 0%, #00B4DC 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* Let's explore and create your experience with metaverse. */
+
+width: 521px;
+height: 60px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 15 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 362px;
+height: 54px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 12 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 14px;
+gap: 10px;
+
+width: 173px;
+height: 54px;
+
+background: linear-gradient(97.16deg, #00A591 12.04%, #10A3DA 81.84%);
+border-radius: 5px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Get Started */
+
+width: 115px;
+height: 30px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 14 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 14px;
+gap: 10px;
+
+width: 173px;
+height: 54px;
+
+border-radius: 5px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Explore Now */
+
+width: 121px;
+height: 30px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* blue Planet */
+
+position: absolute;
+width: 1146.63px;
+height: 793.94px;
+left: 715.31px;
+top: 59.51px;
+
+
+
+/* Blue Planet@7-1454x804 1 */
+
+position: absolute;
+width: 1090.88px;
+height: 704px;
+left: 774.99px;
+top: 59.51px;
+
+background: radial-gradient(45.6% 109.49% at 47.92% 58.4%, #C4C4C4 0%, rgba(196, 196, 196, 0) 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+mix-blend-mode: exclusion;
+transform: rotate(4.86deg);
+
+
+/* Blue Planet@7-1454x804 2 */
+
+position: absolute;
+width: 1090.88px;
+height: 704px;
+left: 774.68px;
+top: 59px;
+
+background: url(Blue Planet@7-1454x804.png);
+mix-blend-mode: exclusion;
+transform: rotate(4.86deg);
+
+
+/* What is AuraX */
+
+position: absolute;
+width: 334px;
+height: 57px;
+left: 677px;
+top: 853px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 600;
+font-size: 45px;
+line-height: 56px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 237759 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 18px;
+
+position: absolute;
+width: 631px;
+height: 216px;
+left: 114px;
+top: -292px;
+
+
+
+/* Group 35 */
+
+width: 631px;
+height: 138px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Explore the future of the */
+
+position: absolute;
+width: 612px;
+height: 136px;
+left: 0px;
+top: 0px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 600;
+font-size: 45px;
+line-height: 68px;
+/* or 151% */
+
+color: #FFFFFF;
+
+
+
+/* Augmented Reality */
+
+position: absolute;
+width: 529px;
+height: 72px;
+left: 102px;
+top: 66px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 55px;
+line-height: 72px;
+/* identical to box height, or 131% */
+
+background: linear-gradient(180deg, #03D9CF 0%, #00B9D9 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* Let's explore and create your experience with metaverse. */
+
+width: 521px;
+height: 60px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* device 1 */
+
+position: absolute;
+width: 760px;
+height: 377px;
+left: 909px;
+top: 269px;
+
+
+
+/* Device */
+
+position: absolute;
+width: 377px;
+left: calc(50% - 377px/2 + 233.5px);
+top: 6.77%;
+bottom: 85.27%;
+
+background: url(Camera .png);
+transform: rotate(-90deg);
+
+
+/* Ellipse 19 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 60px;
+height: 60px;
+left: 1564px;
+top: 425px;
+
+border: 4px solid #FFFFFF;
+
+
+/* Ellipse 21 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 60px;
+height: 60px;
+left: 1564px;
+top: 425px;
+
+border: 4px solid #FFFFFF;
+
+
+/* Ellipse 22 */
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 928px;
+top: 499px;
+
+background: radial-gradient(50% 50% at 50% 50%, rgba(0, 25, 255, 0.47) 0%, rgba(217, 217, 217, 0.47) 0%, rgba(217, 217, 217, 0.47) 0.01%, rgba(0, 25, 245, 0.2961) 100%);
+
+
+/* glass */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 681px;
+height: 575px;
+left: calc(50% - 681px/2 + 302.5px);
+top: calc(50% - 575px/2 - 1020px);
+
+background: linear-gradient(109.54deg, rgba(255, 255, 255, 0.256) -16%, rgba(255, 255, 255, 0.032) 105.19%);
+backdrop-filter: blur(17.1549px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 25.0176px;
+
+
+/* glass */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 681px;
+height: 544px;
+left: calc(50% - 681px/2 - 378.5px);
+top: calc(50% - 544px/2 - 381.5px);
+
+background: linear-gradient(109.54deg, rgba(255, 255, 255, 0.256) -16%, rgba(255, 255, 255, 0.032) 105.19%);
+backdrop-filter: blur(17.1549px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 25.0176px;
+
+
+/* Explore our Models */
+
+position: absolute;
+width: 484px;
+height: 56px;
+left: calc(50% - 484px/2 - 38px);
+top: 1853px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 600;
+font-size: 45px;
+line-height: 56px;
+
+color: #FFFFFF;
+
+
+
+/* Group 48095526 */
+
+position: absolute;
+width: 1382px;
+height: 500.64px;
+left: 163px;
+top: 3487px;
+
+
+
+/* Group 48095508 */
+
+position: absolute;
+width: 675px;
+height: 498px;
+left: 870px;
+top: 3487px;
+
+
+
+/* Real Estate & Interior Design */
+
+position: absolute;
+width: 576px;
+height: 44px;
+left: calc(50% - 576px/2 + 294px);
+top: 3487px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 600;
+font-size: 35px;
+line-height: 44px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* • Real time visualisation & customisability • Remotely accessible truly virtual immersive tours */
+
+position: absolute;
+width: 667px;
+height: 383px;
+left: 878px;
+top: 3602px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 600;
+font-size: 35px;
+line-height: 55px;
+
+color: #FFFFFF;
+
+
+
+/* Frame 237743 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 172.82px;
+
+position: absolute;
+width: 597px;
+height: 492.64px;
+left: 163px;
+top: 3495px;
+
+
+
+/* Group 48095505 */
+
+width: 597px;
+height: 492.64px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 70 */
+
+position: absolute;
+width: 316.45px;
+height: 333.29px;
+left: 8.98px;
+top: 13.47px;
+
+background: url(3d_stylized_game_little_building-removebg-preview.png);
+
+
+/* Rectangle 71 */
+
+position: absolute;
+width: 320.94px;
+height: 363.59px;
+left: 597px;
+top: 120.07px;
+
+background: url(78a72b3d-0763-4d57-9244-38e45f97b569-0-removebg-preview.png);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector 5 */
+
+position: absolute;
+width: 349.56px;
+height: 372.56px;
+left: 247.44px;
+top: 120.07px;
+
+
+
+/* Vector 6 */
+
+position: absolute;
+width: 336.65px;
+height: 361.34px;
+left: 0px;
+top: 0px;
+
+
+
+/* Group 48095527 */
+
+position: absolute;
+width: 1310.72px;
+height: 501px;
+left: 155px;
+top: 4153px;
+
+
+
+/* Group 48095512 */
+
+position: absolute;
+width: 675px;
+height: 357px;
+left: 155px;
+top: 4183px;
+
+
+
+/* Group 48095510 */
+
+position: absolute;
+width: 675px;
+height: 357px;
+left: 155px;
+top: 4183px;
+
+
+
+/* Presentation, Data & Analytics */
+
+position: absolute;
+width: 613px;
+height: 44px;
+left: calc(50% - 613px/2 - 402.5px);
+top: 4183px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 600;
+font-size: 35px;
+line-height: 44px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* • Increase audience attention • Interact with your company's data in real time */
+
+position: absolute;
+width: 667px;
+height: 242px;
+left: 163px;
+top: 4298px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 600;
+font-size: 35px;
+line-height: 68px;
+
+color: #FFFFFF;
+
+
+
+/* gr1-removebg-preview 1 */
+
+position: absolute;
+width: 578.72px;
+height: 501px;
+left: 887px;
+top: 4153px;
+
+background: url(gr1-removebg-preview.png);
+
+
+/* Frame 237760 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 25.3333px 29.5556px;
+gap: 21.11px;
+
+position: absolute;
+width: 257.56px;
+height: 76px;
+left: 878px;
+top: 3924px;
+
+border-radius: 10.5556px;
+
+
+/* Prebook Now */
+
+width: 222px;
+height: 51px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 33.7778px;
+line-height: 51px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 237761 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 25.3333px 29.5556px;
+gap: 21.11px;
+
+position: absolute;
+width: 257.56px;
+height: 76px;
+left: 163px;
+top: 4553px;
+
+border-radius: 10.5556px;
+
+
+/* Prebook Now */
+
+width: 222px;
+height: 51px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 33.7778px;
+line-height: 51px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* glass */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 771px;
+height: 598px;
+left: calc(50% - 771px/2 + 270.5px);
+top: calc(50% - 598px/2 - 2437.5px);
+
+background: linear-gradient(109.54deg, rgba(255, 255, 255, 0.256) -16%, rgba(255, 255, 255, 0.032) 105.19%);
+backdrop-filter: blur(17.1549px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 25.0176px;
+
+
+/* Group 48095528 */
+
+position: absolute;
+width: 1292px;
+height: 584px;
+left: 204px;
+top: 2053px;
+
+
+
+/* menuu-removebg-preview 1 */
+
+position: absolute;
+width: 491px;
+height: 584px;
+left: 204px;
+top: 2053px;
+
+background: url(menuu-removebg-preview.png);
+
+
+/* Group 48095514 */
+
+position: absolute;
+width: 675px;
+height: 498px;
+left: 821px;
+top: 2069px;
+
+
+
+/* Group 48095508 */
+
+position: absolute;
+width: 675px;
+height: 498px;
+left: 821px;
+top: 2069px;
+
+
+
+/* Interactive Menus */
+
+position: absolute;
+width: 361px;
+height: 44px;
+left: calc(50% - 361px/2 + 137.5px);
+top: 2069px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 600;
+font-size: 35px;
+line-height: 44px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* • Optimise your table turnovers • Increase menu item profitability • Increase number of food deliveries */
+
+position: absolute;
+width: 667px;
+height: 383px;
+left: 829px;
+top: 2184px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 600;
+font-size: 35px;
+line-height: 67px;
+
+color: #FFFFFF;
+
+
+
+/* Frame 237762 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 25.3333px 29.5556px;
+gap: 21.11px;
+
+position: absolute;
+width: 281.11px;
+height: 76px;
+left: 829px;
+top: 2510px;
+
+border-radius: 10.5556px;
+
+
+/* Prebook Now */
+
+width: 222px;
+height: 51px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 33.7778px;
+line-height: 51px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* glass */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 737px;
+height: 575px;
+left: calc(50% - 737px/2 - 354.5px);
+top: calc(50% - 575px/2 - 1717px);
+
+background: linear-gradient(109.54deg, rgba(255, 255, 255, 0.256) -16%, rgba(255, 255, 255, 0.032) 105.19%);
+backdrop-filter: blur(17.1549px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 25.0176px;
+
+
+/* Group 48095529 */
+
+position: absolute;
+width: 1389.26px;
+height: 759px;
+left: 185px;
+top: 2635px;
+
+
+
+/* Group 48095507 */
+
+position: absolute;
+width: 785.75px;
+height: 759px;
+left: 788.52px;
+top: 2635px;
+
+
+
+/* Rectangle 73 */
+
+position: absolute;
+width: 605.99px;
+height: 515.28px;
+left: 1574.27px;
+top: 2762.83px;
+
+background: url(Laptop___detallada_isometrica-removebg-preview.png);
+transform: matrix(-1, -0.04, -0.04, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+width: 163.96px;
+height: 149.9px;
+left: 1413.11px;
+top: 2898.1px;
+
+background: #FFFFFF;
+border-radius: 4.23754px;
+transform: matrix(-0.85, -0.52, -0.52, 0.85, 0, 0);
+
+
+/* image 2 */
+
+position: absolute;
+width: 556.93px;
+height: 548.66px;
+left: 1075.7px;
+top: 2635px;
+
+background: url(05b519e7-86ef-4463-bba4-ebf5258087bd-0-removebg-preview.png);
+transform: rotate(31.56deg);
+
+
+/* Group 48095510 */
+
+position: absolute;
+width: 675px;
+height: 498px;
+left: 185px;
+top: 2800px;
+
+
+
+/* Interactice Retail */
+
+position: absolute;
+width: 341px;
+height: 44px;
+left: calc(50% - 341px/2 - 508.5px);
+top: 2800px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 600;
+font-size: 35px;
+line-height: 44px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* • Optimise inventory management • Reduce RTO • Increase CTR & sales conversion */
+
+position: absolute;
+width: 667px;
+height: 383px;
+left: 193px;
+top: 2915px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 600;
+font-size: 35px;
+line-height: 68px;
+
+color: #FFFFFF;
+
+
+
+/* Frame 237763 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 25.3333px 29.5556px;
+gap: 21.11px;
+
+position: absolute;
+width: 257.56px;
+height: 76px;
+left: 185px;
+top: 3216px;
+
+border-radius: 10.5556px;
+
+
+/* Prebook Now */
+
+width: 222px;
+height: 51px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 33.7778px;
+line-height: 51px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 91 */
+
+position: absolute;
+width: 1056px;
+height: 762px;
+left: 320px;
+top: 977px;
+
+background: #D9D9D9;
+
+
+/* Apple iPad Pro 11_ Silver - Landscape */
+
+position: absolute;
+left: 13.31%;
+right: 15.68%;
+top: 9.41%;
+bottom: 81.06%;
+
+background: url(Apple iPad Pro 11_ Silver - Landscape.png);
+
+
+/* Cards */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 87px;
+
+position: absolute;
+width: 584px;
+height: 114px;
+left: 560px;
+top: 4816px;
+
+
+
+/* Frame 237744 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 584px;
+height: 114px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* How does the Aurax work */
+
+width: 510px;
+height: 44px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 600;
+font-size: 35px;
+line-height: 44px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Adipiscing at in tellus integer. Pellentesque massa placerat duis ultricies. Venenatis cras */
+
+width: 584px;
+height: 54px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+text-align: center;
+
+color: rgba(255, 255, 255, 0.8);
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Testemonial temp 7 */
+
+position: absolute;
+width: 579px;
+height: 468px;
+left: 254px;
+top: 5017px;
+
+
+
+/* Rectangle 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 579px;
+height: 468px;
+left: calc(50% - 579px/2 - 320.5px);
+top: calc(50% - 468px/2 + 477.5px);
+
+background: linear-gradient(142.13deg, rgba(254, 248, 255, 0.21) 1.8%, rgba(254, 248, 255, 0) 99.75%);
+backdrop-filter: blur(75.695px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 46.9159px;
+
+
+/* Rectangle */
+
+position: absolute;
+width: 579px;
+height: 468px;
+left: calc(50% - 579px/2 - 320.5px);
+top: calc(50% - 468px/2 + 477.5px);
+
+background: url(.png);
+background-blend-mode: multiply;
+border-radius: 50px;
+
+
+/* Connect and Demo */
+
+position: absolute;
+width: 333px;
+height: 37px;
+left: 384px;
+top: 5082px;
+
+font-family: 'Prompt';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 38px;
+/* or 119% */
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #FFFFFF;
+
+
+
+/* Connect via discovery call. Showcase AR's impact on CX, sales, costs. Address queries, plan custom AR solution, forging a partnership centered on tailored innovation. */
+
+position: absolute;
+width: 490.56px;
+height: 238.3px;
+left: calc(50% - 490.56px/2 - 308.72px);
+top: calc(50% - 238.3px/2 + 526.65px);
+
+font-family: 'Prompt';
+font-style: italic;
+font-weight: 400;
+font-size: 20px;
+line-height: 38px;
+/* or 190% */
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #FFFFFF;
+
+
+
+/* “ */
+
+position: absolute;
+width: 37.34px;
+height: 29.79px;
+left: calc(50% - 37.34px/2 - 556.33px);
+top: calc(50% - 29.79px/2 + 407.39px);
+
+/* Radial */
+background: radial-gradient(82.86% 82.86% at 28.57% 17.14%, #FFA800 0%, #FF4D00 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* “ */
+
+position: absolute;
+width: 37.34px;
+height: 29.79px;
+left: calc(50% - 37.34px/2 - 79.99px);
+top: calc(50% - 29.79px/2 + 592.18px);
+
+/* Radial */
+background: radial-gradient(82.86% 82.86% at 28.57% 17.14%, #FFA800 0%, #FF4D00 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+transform: rotate(-180deg);
+
+
+/* Testemonial temp 8 */
+
+position: absolute;
+width: 763px;
+height: 587px;
+left: 950px;
+top: 5009px;
+
+
+
+/* Rectangle 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 579px;
+height: 468px;
+left: calc(50% - 579px/2 + 375.5px);
+top: calc(50% - 468px/2 + 469.5px);
+
+background: linear-gradient(142.13deg, rgba(254, 248, 255, 0.21) 1.8%, rgba(254, 248, 255, 0) 99.75%);
+backdrop-filter: blur(75.695px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 46.9159px;
+
+
+/* Rectangle */
+
+position: absolute;
+width: 579px;
+height: 468px;
+left: calc(50% - 579px/2 + 559.5px);
+top: calc(50% - 468px/2 + 588.5px);
+
+background: url(.png);
+background-blend-mode: multiply;
+border-radius: 50px;
+
+
+/* Formulate a Strategy */
+
+position: absolute;
+width: 369px;
+height: 37px;
+left: 1055px;
+top: 5074px;
+
+font-family: 'Prompt';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 38px;
+/* or 119% */
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #FFFFFF;
+
+
+
+/* Collaborate on tailored AR strategy. Analyze audience, budget, tech. Craft comprehensive plan for AR solution development, deployment, and performance evaluation, ensuring goal alignment. */
+
+position: absolute;
+width: 490.56px;
+height: 238.3px;
+left: calc(50% - 490.56px/2 + 408.28px);
+top: calc(50% - 238.3px/2 + 509.65px);
+
+font-family: 'Prompt';
+font-style: italic;
+font-weight: 400;
+font-size: 20px;
+line-height: 38px;
+/* or 190% */
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #FFFFFF;
+
+
+
+/* “ */
+
+position: absolute;
+width: 37.34px;
+height: 29.79px;
+left: calc(50% - 37.34px/2 + 132.67px);
+top: calc(50% - 29.79px/2 + 400.39px);
+
+/* Radial */
+background: radial-gradient(82.86% 82.86% at 28.57% 17.14%, #FFA800 0%, #FF4D00 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+
+
+/* “ */
+
+position: absolute;
+width: 37.34px;
+height: 29.79px;
+left: calc(50% - 37.34px/2 + 579.01px);
+top: calc(50% - 29.79px/2 + 610.18px);
+
+/* Radial */
+background: radial-gradient(82.86% 82.86% at 28.57% 17.14%, #FFA800 0%, #FF4D00 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+transform: rotate(-180deg);
+
+
+/* Testemonial temp 9 */
+
+position: absolute;
+width: 579px;
+height: 468px;
+left: 574px;
+top: 5533px;
+
+
+
+/* Rectangle 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 579px;
+height: 468px;
+left: calc(50% - 579px/2 - 0.5px);
+top: calc(50% - 468px/2 + 993.5px);
+
+background: linear-gradient(142.13deg, rgba(254, 248, 255, 0.21) 1.8%, rgba(254, 248, 255, 0) 99.75%);
+backdrop-filter: blur(75.695px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 46.9159px;
+
+
+/* Rectangle */
+
+position: absolute;
+width: 579px;
+height: 468px;
+left: calc(50% - 579px/2 - 0.5px);
+top: calc(50% - 468px/2 + 993.5px);
+
+background: url(.png);
+background-blend-mode: multiply;
+border-radius: 50px;
+
+
+/* Create and Monitor */
+
+position: absolute;
+width: 369px;
+height: 37px;
+left: 679px;
+top: 5598px;
+
+font-family: 'Prompt';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 38px;
+/* or 119% */
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #FFFFFF;
+
+
+
+/* Develop compelling AR experiences aligned with client needs. Monitor progress, offer technical aid. Track and share outcomes for ROI assessment, ensuring value from the investment.. */
+
+position: absolute;
+width: 490.56px;
+height: 238.3px;
+left: calc(50% - 490.56px/2 + 11.28px);
+top: calc(50% - 238.3px/2 + 1039.65px);
+
+font-family: 'Prompt';
+font-style: italic;
+font-weight: 400;
+font-size: 20px;
+line-height: 38px;
+/* or 190% */
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #FFFFFF;
+
+
+
+/* “ */
+
+position: absolute;
+width: 37.34px;
+height: 29.79px;
+left: calc(50% - 37.34px/2 - 243.33px);
+top: calc(50% - 29.79px/2 + 925.39px);
+
+/* Radial */
+background: radial-gradient(82.86% 82.86% at 28.57% 17.14%, #FFA800 0%, #FF4D00 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+
+
+/* “ */
+
+position: absolute;
+width: 37.34px;
+height: 29.79px;
+left: calc(50% - 37.34px/2 + 193.01px);
+top: calc(50% - 29.79px/2 + 1128.18px);
+
+/* Radial */
+background: radial-gradient(82.86% 82.86% at 28.57% 17.14%, #FFA800 0%, #FF4D00 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+transform: rotate(-180deg);
+
+
+/* Rectangle 92 */
+
+position: absolute;
+width: 266px;
+height: 240px;
+left: 1463px;
+top: 5131px;
+
+
+
+/* Frame 237754 */
+
+position: absolute;
+width: 1469px;
+height: 443px;
+left: calc(50% - 1469px/2 + 21.5px);
+top: 7615px;
+
+
+
+/* Rectangle 68 */
+
+position: absolute;
+width: 1727px;
+height: 443px;
+left: -152px;
+top: 0px;
+
+background: #090823;
+
+
+/* Frame 237729 */
+
+position: absolute;
+width: 148px;
+height: 213px;
+left: 608px;
+top: 104px;
+
+
+
+/* About Us */
+
+position: absolute;
+width: 102px;
+height: 25px;
+left: 0px;
+top: 0px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 237722 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 148px;
+height: 167px;
+left: -1px;
+top: 46px;
+
+
+
+/* About AuraX */
+
+width: 113px;
+height: 27px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Contact Us */
+
+width: 100px;
+height: 27px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* FAQ */
+
+width: 36px;
+height: 27px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Privacy Policy */
+
+width: 122px;
+height: 27px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Terms of Service */
+
+width: 148px;
+height: 27px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Frame 237730 */
+
+position: absolute;
+width: 149px;
+height: 213px;
+left: 839px;
+top: 104px;
+
+
+
+/* Services */
+
+position: absolute;
+width: 103px;
+height: 25px;
+left: -1px;
+top: 0px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 237723 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 130px;
+height: 167px;
+left: -1px;
+top: 46px;
+
+
+
+/* Food Menus */
+
+width: 109px;
+height: 27px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Retail */
+
+width: 50px;
+height: 27px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Real Estate */
+
+width: 99px;
+height: 27px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Interior Design */
+
+width: 130px;
+height: 27px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Presentation */
+
+width: 114px;
+height: 27px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Frame 237651 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 263px;
+height: 158px;
+left: 1088px;
+top: 104px;
+
+
+
+/* Contact */
+
+width: 89px;
+height: 25px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 237728 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 263px;
+height: 109px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 237644 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 21px;
+
+width: 205px;
+height: 37px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* LinkedIn */
+
+width: 35px;
+height: 35px;
+
+background: url(.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Twitter Squared */
+
+width: 37px;
+height: 37px;
+
+background: url(.png);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Instagram */
+
+width: 35px;
+height: 35px;
+
+background: url(.png);
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Facebook */
+
+width: 35px;
+height: 35px;
+
+background: url(.png);
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* 2023 © AuraX.in All right reserved. */
+
+width: 263px;
+height: 48px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* SOCIAL Twitter Facebook LinkedIn GitHub */
+
+position: absolute;
+width: 103px;
+height: 180px;
+left: 464px;
+top: 104px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Frame 237731 */
+
+position: absolute;
+width: 524px;
+height: 175px;
+left: 95px;
+top: 7665px;
+
+
+
+/* Building the future of business */
+
+position: absolute;
+width: 524px;
+height: 25px;
+left: 0px;
+top: 75px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height */
+letter-spacing: 0.07em;
+
+color: #FFFFFF;
+
+
+
+/* logo_final_X-removebg-preview 3 */
+
+position: absolute;
+width: 188px;
+height: 114px;
+left: -28px;
+top: -26px;
+
+background: url(logo_final_X-removebg-preview.png);
+
+
+/* image 6 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1726px;
+height: 891px;
+left: 0px;
+top: 8080px;
+
+background: url(image.png);
+border: 1px solid #000000;
